@@ -20,8 +20,8 @@ Ce mémoire étudie :
    
  - Une application générale de l’ACP avec sa mise en oeuvre informatique (notamment par l'utilisation de R (Rstudio)).
 
-- [Mémoire (PDF)](m1s2-acp/m1s2-acp-memoire.pdf)
-- [Slides de soutenance (PDF)](m1s2-acp/m1s2-acp-soutenance.pdf)
+- [Mémoire (PDF)](m1s2-analyse-en-composantes-principales/m1s2-analyse-en-composantes-principales-memoire.pdf)
+- [Slides de soutenance (PDF)](m1s2-analyse-en-composantes-principales/m1s2-analyse-en-composantes-principales-soutenance.pdf)
 
 ## Les chaînes de Markov et leurs utilisations biologiques
 
@@ -35,8 +35,8 @@ Il s'appuie sur des exemples de modèles biologiques tels que
 l’évolution de la taille d’une population ou la propagation d’épidémies. Des simulations
 numériques illustrent les notions mathématiques présentées.
 
-- [Mémoire (PDF)](m1-chaines-de-markov-application-en-biologie/m1-chaines-de-markov-application-en-biologie-memoire.pdf)
-- [Slides de soutenance (PDF)](m1-chaines-de-markov-application-en-biologie/m1-chaines-de-markov-application-en-biologie-soutenance.pdf)
+- [Mémoire (PDF)](m1s1-chaines-de-markov-application-en-biologie/m1s1-chaines-de-markov-application-en-biologie-memoire.pdf)
+- [Slides de soutenance (PDF)](m1s1-chaines-de-markov-application-en-biologie/m1s1-chaines-de-markov-application-en-biologie-soutenance.pdf)
 
 ## La géométrie dans l'espace et les sections planes
 
